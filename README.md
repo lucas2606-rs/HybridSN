@@ -34,10 +34,10 @@ patch size = 25, bands after PCA = 30, train:validation:test = 0.2:0.1:0.7
                 weighted avg       0.99      0.99      0.99      5740
                 
 **Confusion matrix:**
-![IN_CM]()
+![IN_CM](https://github.com/lzp-cumtb/HybridSN/blob/main/pics/confusion_mat_without_norm1.png)
 
 **Prediction Map:**
-![IN_PM]()
+![IN_PM](https://github.com/lzp-cumtb/HybridSN/blob/main/pics/pred_map1.jpg)
 ### SA dataset:
 patch size = 25, bands after PCA = 15, train:validation:test = 0.2:0.1:0.7
 
@@ -71,6 +71,6 @@ patch size = 25, bands after PCA = 15, train:validation:test = 0.2:0.1:0.7
              weighted avg       1.00      1.00      1.00     30313
 
 **Confusion matrix:**
-![SA_CM]()
+![SA_CM](https://github.com/lzp-cumtb/HybridSN/blob/main/pics/confusion_mat_without_norm.png)
 **Prediction map:**
-![SA_PM]()
+![SA_PM](https://github.com/lzp-cumtb/HybridSN/blob/main/pics/pred_map.jpg)
