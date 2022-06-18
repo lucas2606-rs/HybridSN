@@ -1,5 +1,5 @@
 # HybridSN
-This is a Keras implementation of paper:*HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification*
+This is a Keras reproduction of paper:*HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification*
 ## Test result:
 ### IN dataset
 patch size = 25, bands after PCA = 30, train:validation:test = 0.2:0.1:0.7  
